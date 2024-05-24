@@ -1,0 +1,120 @@
+{
+    "news": [
+        {
+            "id": "1",
+            "name": "Baki Marafonu 2024-ün qalibləri müəyyənləşib",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate eveniet ad, aspernatur rem impedit esse reprehenderit nobis quibusdam voluptates quo similique accusantium minima vero quis quasi quod neque non cumque incidunt repellendus est aperiam officia nisi error? Dolorem eiusdicta! Laborum quasi impedit accusantium assumenda ducimus accusamus aliquid mollitia repellat soluta! Dicta illo blanditiis distinctio laboriosam rem magni doloremque error quo, excepturi, optio ducimus totam fugiat. Autem tenetur quibusdam consectetur sunt officiis voluptatum, libero provident, illum dolorem nobis, delectus expedita praesentium eum nisi assumenda maiores architecto voluptate cumque consequatur debitis? Ut amet quas saepe laudantium laborum. Quas a molestiae dolorum unde, natus dignissimos dolor officiis sapiente quasi? Tenetur ea, ad magni et praesentium beatae! Mollitia, amet incidunt eveniet accusamus officiis placeat, facilis numquam, commodi eos laboriosam vel? Accusamus ab optio tempore neque voluptatibus quasi voluptates nam nisi dolor corporis perspiciatis eos velit soluta rem laudantium ullam beatae eaque, libero minima asperiores minus enim possimus! Eligendi iste facilis beatae cumque nihil libero, a perferendis enim cum? Amet molestiae porro delectus similique dolore minus iusto officia libero consequatur facere aut autem adipisci, error iste, nesciunt quaerat beatae blanditiis facilis perferendis, voluptatibus inventore dolores rem. Deserunt soluta quia eius! Expedita iste nobis eum tempora neque, obcaecati numquam molestias. Amet quam minus voluptatum.",
+            "auther": "Fuad Quliyev",
+            "date": "04.04.2024",
+            "location": "Azerbaijan, Baku",
+            "image": "./assets/images/48fd18aa-4897-3edc-b695-3b355d8f82a2_850.jpg",
+            "categoriesId":"1"
+        },
+        {
+            "id": "2",
+            "name": "Bakı dünyanın İdman Paytaxtı seçildi",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate eveniet ad, aspernatur rem impedit esse reprehenderit nobis quibusdam voluptates quo similique accusantium minima vero quis quasi quod neque non cumque incidunt repellendus est aperiam officia nisi error? Dolorem eiusdicta! Laborum quasi impedit accusantium assumenda ducimus accusamus aliquid mollitia repellat soluta! Dicta illo blanditiis distinctio laboriosam rem magni doloremque error quo, excepturi, optio ducimus totam fugiat. Autem tenetur quibusdam consectetur sunt officiis voluptatum, libero provident, illum dolorem nobis, delectus expedita praesentium eum nisi assumenda maiores architecto voluptate cumque consequatur debitis? Ut amet quas saepe laudantium laborum. Quas a molestiae dolorum unde, natus dignissimos dolor officiis sapiente quasi? Tenetur ea, ad magni et praesentium beatae! Mollitia, amet incidunt eveniet accusamus officiis placeat, facilis numquam, commodi eos laboriosam vel? Accusamus ab optio tempore neque voluptatibus quasi voluptates nam nisi dolor corporis perspiciatis eos velit soluta rem laudantium ullam beatae eaque, libero minima asperiores minus enim possimus! Eligendi iste facilis beatae cumque nihil libero, a perferendis enim cum? Amet molestiae porro delectus similique dolore minus iusto officia libero consequatur facere aut autem adipisci, error iste, nesciunt quaerat beatae blanditiis facilis perferendis, voluptatibus inventore dolores rem. Deserunt soluta quia eius! Expedita iste nobis eum tempora neque, obcaecati numquam molestias. Amet quam minus voluptatum.",
+            "auther": "Aliyeva Nisa",
+            "date": "05.03.2024",
+            "location": "Azerbaijan, Baku",
+            "image": "./assets/images/bakuuu.webp",
+            "categoriesId":"2"
+        },
+        {
+            "id": "3",
+            "name": "“Qarabağ”ın mükafatlandırılacağı vaxt açıqlanıb",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate eveniet ad, aspernatur rem impedit esse reprehenderit nobis quibusdam voluptates quo similique accusantium minima vero quis quasi quod neque non cumque incidunt repellendus est aperiam officia nisi error? Dolorem eiusdicta! Laborum quasi impedit accusantium assumenda ducimus accusamus aliquid mollitia repellat soluta! Dicta illo blanditiis distinctio laboriosam rem magni doloremque error quo, excepturi, optio ducimus totam fugiat. Autem tenetur quibusdam consectetur sunt officiis voluptatum, libero provident, illum dolorem nobis, delectus expedita praesentium eum nisi assumenda maiores architecto voluptate cumque consequatur debitis? Ut amet quas saepe laudantium laborum. Quas a molestiae dolorum unde, natus dignissimos dolor officiis sapiente quasi? Tenetur ea, ad magni et praesentium beatae! Mollitia, amet incidunt eveniet accusamus officiis placeat, facilis numquam, commodi eos laboriosam vel? Accusamus ab optio tempore neque voluptatibus quasi voluptates nam nisi dolor corporis perspiciatis eos velit soluta rem laudantium ullam beatae eaque, libero minima asperiores minus enim possimus! Eligendi iste facilis beatae cumque nihil libero, a perferendis enim cum? Amet molestiae porro delectus similique dolore minus iusto officia libero consequatur facere aut autem adipisci, error iste, nesciunt quaerat beatae blanditiis facilis perferendis, voluptatibus inventore dolores rem. Deserunt soluta quia eius! Expedita iste nobis eum tempora neque, obcaecati numquam molestias. Amet quam minus voluptatum.",
+            "auther": "Murad Gurbanzade",
+            "date": "07.11.2024",
+            "location": "Azerbaijan, Baku",
+            "image": "./assets/images/qarabag.webp",
+            "categoriesId":"4"
+        },
+        {
+            "id": "4",
+            "name": "50 milyonluq qaçaq ehtiyat hissələri",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate eveniet ad, aspernatur rem impedit esse reprehenderit nobis quibusdam voluptates quo similique accusantium minima vero quis quasi quod neque non cumque incidunt repellendus est aperiam officia nisi error? Dolorem eiusdicta! Laborum quasi impedit accusantium assumenda ducimus accusamus aliquid mollitia repellat soluta! Dicta illo blanditiis distinctio laboriosam rem magni doloremque error quo, excepturi, optio ducimus totam fugiat. Autem tenetur quibusdam consectetur sunt officiis voluptatum, libero provident, illum dolorem nobis, delectus expedita praesentium eum nisi assumenda maiores architecto voluptate cumque consequatur debitis? Ut amet quas saepe laudantium laborum. Quas a molestiae dolorum unde, natus dignissimos dolor officiis sapiente quasi? Tenetur ea, ad magni et praesentium beatae! Mollitia, amet incidunt eveniet accusamus officiis placeat, facilis numquam, commodi eos laboriosam vel? Accusamus ab optio tempore neque voluptatibus quasi voluptates nam nisi dolor corporis perspiciatis eos velit soluta rem laudantium ullam beatae eaque, libero minima asperiores minus enim possimus! Eligendi iste facilis beatae cumque nihil libero, a perferendis enim cum? Amet molestiae porro delectus similique dolore minus iusto officia libero consequatur facere aut autem adipisci, error iste, nesciunt quaerat beatae blanditiis facilis perferendis, voluptatibus inventore dolores rem. Deserunt soluta quia eius! Expedita iste nobis eum tempora neque, obcaecati numquam molestias. Amet quam minus voluptatum.",
+            "auther": "Taleh Rzayev",
+            "date": "23.06.2024",
+            "location": "Turkey, Istanbul",
+            "image": "./assets/images/ehthisse.webp",
+            "categoriesId":"3"
+        },
+        {
+            "id": "5",
+            "name": "“Qəbələ”nin yeniyetmə futbolçuları Gəncədə döyüldü",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate eveniet ad, aspernatur rem impedit esse reprehenderit nobis quibusdam voluptates quo similique accusantium minima vero quis quasi quod neque non cumque incidunt repellendus est aperiam officia nisi error? Dolorem eiusdicta! Laborum quasi impedit accusantium assumenda ducimus accusamus aliquid mollitia repellat soluta! Dicta illo blanditiis distinctio laboriosam rem magni doloremque error quo, excepturi, optio ducimus totam fugiat. Autem tenetur quibusdam consectetur sunt officiis voluptatum, libero provident, illum dolorem nobis, delectus expedita praesentium eum nisi assumenda maiores architecto voluptate cumque consequatur debitis? Ut amet quas saepe laudantium laborum. Quas a molestiae dolorum unde, natus dignissimos dolor officiis sapiente quasi? Tenetur ea, ad magni et praesentium beatae! Mollitia, amet incidunt eveniet accusamus officiis placeat, facilis numquam, commodi eos laboriosam vel? Accusamus ab optio tempore neque voluptatibus quasi voluptates nam nisi dolor corporis perspiciatis eos velit soluta rem laudantium ullam beatae eaque, libero minima asperiores minus enim possimus! Eligendi iste facilis beatae cumque nihil libero, a perferendis enim cum? Amet molestiae porro delectus similique dolore minus iusto officia libero consequatur facere aut autem adipisci, error iste, nesciunt quaerat beatae blanditiis facilis perferendis, voluptatibus inventore dolores rem. Deserunt soluta quia eius! Expedita iste nobis eum tempora neque, obcaecati numquam molestias. Amet quam minus voluptatum.",
+            "auther": "Ferid Rzayev",
+            "date": "10.09.2024",
+            "location": "Azerbaijan, Baku",
+            "image": "./assets/images/futbolcu.webp",
+            "categoriesId":"1"
+        },
+        {
+            "id": "6",
+            "name": "Hesabı saxta dollarla ödədi..",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate eveniet ad, aspernatur rem impedit esse reprehenderit nobis quibusdam voluptates quo similique accusantium minima vero quis quasi quod neque non cumque incidunt repellendus est aperiam officia nisi error? Dolorem eiusdicta! Laborum quasi impedit accusantium assumenda ducimus accusamus aliquid mollitia repellat soluta! Dicta illo blanditiis distinctio laboriosam rem magni doloremque error quo, excepturi, optio ducimus totam fugiat. Autem tenetur quibusdam consectetur sunt officiis voluptatum, libero provident, illum dolorem nobis, delectus expedita praesentium eum nisi assumenda maiores architecto voluptate cumque consequatur debitis? Ut amet quas saepe laudantium laborum. Quas a molestiae dolorum unde, natus dignissimos dolor officiis sapiente quasi? Tenetur ea, ad magni et praesentium beatae! Mollitia, amet incidunt eveniet accusamus officiis placeat, facilis numquam, commodi eos laboriosam vel? Accusamus ab optio tempore neque voluptatibus quasi voluptates nam nisi dolor corporis perspiciatis eos velit soluta rem laudantium ullam beatae eaque, libero minima asperiores minus enim possimus! Eligendi iste facilis beatae cumque nihil libero, a perferendis enim cum? Amet molestiae porro delectus similique dolore minus iusto officia libero consequatur facere aut autem adipisci, error iste, nesciunt quaerat beatae blanditiis facilis perferendis, voluptatibus inventore dolores rem. Deserunt soluta quia eius! Expedita iste nobis eum tempora neque, obcaecati numquam molestias. Amet quam minus voluptatum.",
+            "auther": "Arif Azad",
+            "date": "02.06.2024",
+            "location": "Azerbaijan, Baku",
+            "image": "./assets/images/usd.webp",
+            "categoriesId":"2"
+        },
+        {
+            "id": "7",
+            "name": "“Kartla ödəniş insanları bədxərcliyə sövq edir”..",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate eveniet ad, aspernatur rem impedit esse reprehenderit nobis quibusdam voluptates quo similique accusantium minima vero quis quasi quod neque non cumque incidunt repellendus est aperiam officia nisi error? Dolorem eiusdicta! Laborum quasi impedit accusantium assumenda ducimus accusamus aliquid mollitia repellat soluta! Dicta illo blanditiis distinctio laboriosam rem magni doloremque error quo, excepturi, optio ducimus totam fugiat. Autem tenetur quibusdam consectetur sunt officiis voluptatum, libero provident, illum dolorem nobis, delectus expedita praesentium eum nisi assumenda maiores architecto voluptate cumque consequatur debitis? Ut amet quas saepe laudantium laborum. Quas a molestiae dolorum unde, natus dignissimos dolor officiis sapiente quasi? Tenetur ea, ad magni et praesentium beatae! Mollitia, amet incidunt eveniet accusamus officiis placeat, facilis numquam, commodi eos laboriosam vel? Accusamus ab optio tempore neque voluptatibus quasi voluptates nam nisi dolor corporis perspiciatis eos velit soluta rem laudantium ullam beatae eaque, libero minima asperiores minus enim possimus! Eligendi iste facilis beatae cumque nihil libero, a perferendis enim cum? Amet molestiae porro delectus similique dolore minus iusto officia libero consequatur facere aut autem adipisci, error iste, nesciunt quaerat beatae blanditiis facilis perferendis, voluptatibus inventore dolores rem. Deserunt soluta quia eius! Expedita iste nobis eum tempora neque, obcaecati numquam molestias. Amet quam minus voluptatum.",
+            "auther": "Arif Azad",
+            "date": "24.06.2024",
+            "location": "Azerbaijan, Baku",
+            "image": "./assets/images/kart.webp",
+            "categoriesId":"5"
+        },
+        {
+            "id": "8",
+            "name": "2 sərnişin təyyarəsi toqquşdu..",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate eveniet ad, aspernatur rem impedit esse reprehenderit nobis quibusdam voluptates quo similique accusantium minima vero quis quasi quod neque non cumque incidunt repellendus est aperiam officia nisi error? Dolorem eiusdicta! Laborum quasi impedit accusantium assumenda ducimus accusamus aliquid mollitia repellat soluta! Dicta illo blanditiis distinctio laboriosam rem magni doloremque error quo, excepturi, optio ducimus totam fugiat. Autem tenetur quibusdam consectetur sunt officiis voluptatum, libero provident, illum dolorem nobis, delectus expedita praesentium eum nisi assumenda maiores architecto voluptate cumque consequatur debitis? Ut amet quas saepe laudantium laborum. Quas a molestiae dolorum unde, natus dignissimos dolor officiis sapiente quasi? Tenetur ea, ad magni et praesentium beatae! Mollitia, amet incidunt eveniet accusamus officiis placeat, facilis numquam, commodi eos laboriosam vel? Accusamus ab optio tempore neque voluptatibus quasi voluptates nam nisi dolor corporis perspiciatis eos velit soluta rem laudantium ullam beatae eaque, libero minima asperiores minus enim possimus! Eligendi iste facilis beatae cumque nihil libero, a perferendis enim cum? Amet molestiae porro delectus similique dolore minus iusto officia libero consequatur facere aut autem adipisci, error iste, nesciunt quaerat beatae blanditiis facilis perferendis, voluptatibus inventore dolores rem. Deserunt soluta quia eius! Expedita iste nobis eum tempora neque, obcaecati numquam molestias. Amet quam minus voluptatum.",
+            "auther": "Əliyev Azad",
+            "date": "17.04.2024",
+            "location": "Azerbaijan, Baku",
+            "image": "./assets/images/tyyr.webp",
+            "categoriesId":"6"
+        },
+        {
+            "id": "9",
+            "name": "Tək nəfərlik uçan 'Hexa'..",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate eveniet ad, aspernatur rem impedit esse reprehenderit nobis quibusdam voluptates quo similique accusantium minima vero quis quasi quod neque non cumque incidunt repellendus est aperiam officia nisi error? Dolorem eiusdicta! Laborum quasi impedit accusantium assumenda ducimus accusamus aliquid mollitia repellat soluta! Dicta illo blanditiis distinctio laboriosam rem magni doloremque error quo, excepturi, optio ducimus totam fugiat. Autem tenetur quibusdam consectetur sunt officiis voluptatum, libero provident, illum dolorem nobis, delectus expedita praesentium eum nisi assumenda maiores architecto voluptate cumque consequatur debitis? Ut amet quas saepe laudantium laborum. Quas a molestiae dolorum unde, natus dignissimos dolor officiis sapiente quasi? Tenetur ea, ad magni et praesentium beatae! Mollitia, amet incidunt eveniet accusamus officiis placeat, facilis numquam, commodi eos laboriosam vel? Accusamus ab optio tempore neque voluptatibus quasi voluptates nam nisi dolor corporis perspiciatis eos velit soluta rem laudantium ullam beatae eaque, libero minima asperiores minus enim possimus! Eligendi iste facilis beatae cumque nihil libero, a perferendis enim cum? Amet molestiae porro delectus similique dolore minus iusto officia libero consequatur facere aut autem adipisci, error iste, nesciunt quaerat beatae blanditiis facilis perferendis, voluptatibus inventore dolores rem. Deserunt soluta quia eius! Expedita iste nobis eum tempora neque, obcaecati numquam molestias. Amet quam minus voluptatum.",
+            "auther": "Əliyev Azad",
+            "date": "29.04.2024",
+            "location": "Turkey, Istanbul",
+            "image": "./assets/images/hexa.webp",
+            "categoriesId":"5"
+        }
+    ],
+    "categories":[
+        {
+            "id":"1",
+            "name":"İdman"
+        },
+        {
+            "id":"2",
+            "name":"Siyasət"
+        },
+        {
+            "id":"3",
+            "name":"Sosial"
+        },
+        {
+            "id":"4",
+            "name":"Qarabağ"
+        },
+        {
+            "id":"5",
+            "name":"Texnologiya"
+        },
+        {
+            "id":"6",
+            "name":"Hadisə"
+        }
+    ]
+}

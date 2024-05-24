@@ -1,0 +1,8 @@
+:root {
+    --color-black: rgb(0, 0, 0);
+    --color-white: #FFF;
+    --color-black: #494848;
+    --color-red: #6e0909;
+    --color-blue: hsl(240, 29%, 44%);
+    --color-1: rgb(49, 7, 80);
+}
